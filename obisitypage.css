@@ -1,0 +1,120 @@
+.heading{
+    text-align: center;
+}
+.headcon{
+    text-align: center;
+}
+.subhead{
+    text-align: center;
+    padding: 1px;
+    background-color: aqua;
+}
+.post{
+    display: flex;
+    align-content: flex-end;
+}
+
+.down{
+    display: flex;
+}
+.img2{
+padding: 30px;
+}
+
+.img3{
+    padding: 30px;
+
+}
+
+.img4{
+padding: 20px;
+}
+
+.b{
+    display: flex;
+}
+
+.subhead2{
+    text-align: center;
+    padding: 1px;
+    background-color: aqua;}
+
+/* }
+.img5{
+    padding: 15px;
+}
+.img6{
+    padding: 15px
+}
+.img7{
+    padding: 15px
+}
+.img8{
+    padding: 15px
+} */
+/* img.img5 {
+    padding: 20px;
+}
+img.img6 {
+    padding: 20px;
+}
+img.img7 {
+    padding: 20px;
+}
+img.img8 {
+    padding: 20px;
+} */
+.people{
+    display: flex;
+}
+
+.col-sm-12.col-md-6.col-xl-6.col-lg-6 {
+    text-align: center;
+}
+
+.people2{
+    display: flex;
+}
+
+.d{
+    color: white;
+}
+.e{
+    color: white;
+}
+
+.subhead3{
+    text-align: center;
+    padding: 1px;
+    background-color: aqua;
+}
+
+.pic1{
+    display: flex;
+}
+
+p.link-warning.fs-1.fw-bold {
+    text-align: center;
+    width: 50%;
+}
+
+.pic2{
+    display: flex;
+}
+
+.pic3{
+    display: flex;
+}
+
+.pic4{
+    display: flex;
+}
+
+.subhead4{
+    text-align: center;
+    padding: 1px;
+    background-color: aqua;
+}
+/* .ppic1{
+    display: flex;
+} */
